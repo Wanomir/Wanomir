@@ -4,7 +4,7 @@ Currently I study and dive into Data Science, while making money as a manager on
 I’m would be happy to participate in real project as an DS intern.
 Feel free to reach me ✉️ wanomir@yandex.com
 
-  p.s. although I was born and currently live in Russia I do not support the government of this country, especially the war.
+  p.s. although I was born and currently live in Russia, I do not support the government of this country, especially the war.
   
 <!---
 Wanomir/Wanomir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
